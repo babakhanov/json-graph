@@ -1,0 +1,559 @@
+[
+    {
+        "title": "User Authentication Refactor",
+        "description": "Refactor the existing user authentication to improve security and maintainability.",
+        "status": "IN_PROGRESS",
+        "assignedTo": "Adam",
+        "project": "SecurityEnhance",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "security",
+            "refactor"
+        ]
+    },
+    {
+        "title": "Implement Redis Caching",
+        "description": "Incorporate Redis caching to improve application performance.",
+        "status": "CURRENT_SPRINT",
+        "assignedTo": "Beth",
+        "project": "PerformanceBoost",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "performance",
+            "cache"
+        ]
+    },
+    {
+        "title": "Dashboard Redesign",
+        "description": "Complete a redesign of the main dashboard for better usability.",
+        "status": "QA",
+        "assignedTo": "Charlie",
+        "project": "UIRevamp",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "design"
+        ]
+    },
+    {
+        "title": "FeatureX API Layer",
+        "description": "Develop the backend API layer for FeatureX",
+        "status": "IN_PROGRESS",
+        "assignedTo": "Dana",
+        "project": "FeatureXDevelopment",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "api"
+        ]
+    },
+    {
+        "title": "Mobile Responsive Adjustments",
+        "description": "Adjust application components to improve mobile responsiveness",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "UIRevamp",
+        "milestone": "Release 3.1",
+        "tags": [
+            "frontend",
+            "responsive"
+        ]
+    },
+    {
+        "title": "2FA Integration",
+        "description": "Add two-factor authentication for enhanced user security.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "SecurityEnhance",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "security"
+        ]
+    },
+    {
+        "title": "GraphQL Implementation",
+        "description": "Implement GraphQL to streamline client-server communication.",
+        "status": "CURRENT_SPRINT",
+        "assignedTo": "Beth",
+        "project": "PerformanceBoost",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "api",
+            "performance"
+        ]
+    },
+    {
+        "title": "Error Logging Service",
+        "description": "Develop a centralized error logging service for better issue tracking.",
+        "status": "IN_PROGRESS",
+        "assignedTo": "Charlie",
+        "project": "CoreDataUpgrade",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "ops"
+        ]
+    },
+    {
+        "title": "UI Component Library",
+        "description": "Create a UI component library for faster frontend development.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "UIRevamp",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "design"
+        ]
+    },
+    {
+        "title": "Automate Data Import",
+        "description": "Develop an automated data import tool to ease onboarding of new datasets.",
+        "status": "CURRENT_SPRINT",
+        "assignedTo": "Eva",
+        "project": "PerformanceBoost",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "data-import"
+        ]
+    },
+    {
+        "title": "Database Scalability Implementation",
+        "description": "Ensure the database can scale effectively under high load.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "Database Optimization",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "db"
+        ]
+    },
+    {
+        "title": "Server Capacity Upgrade",
+        "description": "Upgrade the server infrastructure to manage the growing traffic.",
+        "status": "BACKLOG",
+        "assignedTo": "Beth",
+        "project": "Server Infrastructure Upgrade",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "infrastructure"
+        ]
+    },
+    {
+        "title": "User Experience Review",
+        "description": "Review the application's user experience and suggest improvements.",
+        "status": "BACKLOG",
+        "assignedTo": "Charlie",
+        "project": "User Experience Improvement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "design",
+            "UX"
+        ]
+    },
+    {
+        "title": "Automated Bug Reporting",
+        "description": "Develop an automated bug reporting tool for end-users.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "System Maintenance and Bug Fixes",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "maintenance",
+            "bug-reporting"
+        ]
+    },
+    {
+        "title": "Create New User Onboarding Flow",
+        "description": "Develop a new user onboarding flow to increase user engagement.",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "Marketing & User Engagement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "marketing"
+        ]
+    },
+    {
+        "title": "Marketing Campaign Analytics",
+        "description": "Develop a tool to track and analyse the performance of marketing campaigns.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "Marketing & User Engagement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "analytics",
+            "marketing"
+        ]
+    },
+    {
+        "title": "GDPR Compliant Data Storage",
+        "description": "Ensure all data storage is GDPR compliant.",
+        "status": "BACKLOG",
+        "assignedTo": "Beth",
+        "project": "Legal Compliance",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "legal",
+            "data"
+        ]
+    },
+    {
+        "title": "Automated A/B Testing",
+        "description": "Implement an automatic A/B testing system for UI/UX enhancements.",
+        "status": "BACKLOG",
+        "assignedTo": "Charlie",
+        "project": "User Experience Improvement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "UX",
+            "testing"
+        ]
+    },
+    {
+        "title": "Implement Centralized Logging",
+        "description": "Develop centralized logging for better debugging and error tracking.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "System Maintenance and Bug Fixes",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "maintenance",
+            "logging"
+        ]
+    },
+    {
+        "title": "Add User Survey System",
+        "description": "Integrate a user survey system on the dashboard for direct user feedback.",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "Marketing & User Engagement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "feedback",
+            "survey"
+        ]
+    },
+    {
+        "title": "Stress Testing",
+        "description": "Carry out stress tests on the system to ensure stability under peak loads.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "System Maintenance and Bug Fixes",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "testing"
+        ]
+    },
+    {
+        "title": "Error Handling Review",
+        "description": "Review and improve the error handling across the entire codebase.",
+        "status": "BACKLOG",
+        "assignedTo": "Beth",
+        "project": "System Maintenance and Bug Fixes",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "error-handling"
+        ]
+    },
+    {
+        "title": "Design System Documentation",
+        "description": "Document the design system for consistent UI development.",
+        "status": "BACKLOG",
+        "assignedTo": "Charlie",
+        "project": "User Experience Improvement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "design",
+            "documentation"
+        ]
+    },
+    {
+        "title": "Rate Limiting",
+        "description": "Implement rate limiting to protect the API from abuse.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "SecurityEnhance",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "security"
+        ]
+    },
+    {
+        "title": "Implement User Segmentation",
+        "description": "Develop a system for segmenting users for targeted marketing.",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "Marketing & User Engagement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "marketing",
+            "segmentation"
+        ]
+    },
+    {
+        "title": "CDN Integration for Static Assets",
+        "description": "Integrate a CDN to serve static assets to improve load times.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "PerformanceBoost",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "performance",
+            "cdn"
+        ]
+    },
+    {
+        "title": "Implement Automated Accessibility Tests",
+        "description": "Ensure our web application is accessible to all users, including those with disabilities.",
+        "status": "BACKLOG",
+        "assignedTo": "Beth",
+        "project": "User Experience Improvement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "accessibility",
+            "testing"
+        ]
+    },
+    {
+        "title": "Migration to Microservices Architecture",
+        "description": "Start the migration process of our monolithic app to a more scalable microservices architecture.",
+        "status": "BACKLOG",
+        "assignedTo": "Charlie",
+        "project": "PerformanceBoost",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "microservices"
+        ]
+    },
+    {
+        "title": "Improving Application Security",
+        "description": "Review and improve the security of our web application to avoid data breaches.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "SecurityEnhance",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "security"
+        ]
+    },
+    {
+        "title": "SEO Optimization",
+        "description": "Optimize our web pages to rank higher in search engine result pages to increase organic traffic.",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "Marketing & User Engagement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "seo"
+        ]
+    },
+    {
+        "title": "Push Notifications Integration",
+        "description": "Integrate push notifications to improve user engagement.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "Marketing & User Engagement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "push-notifications"
+        ]
+    },
+    {
+        "title": "Real-time User Activity Dashboard",
+        "description": "Create a dashboard to monitor user activity in real-time.",
+        "status": "BACKLOG",
+        "assignedTo": "Beth",
+        "project": "Analytics and Reporting",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "analytics"
+        ]
+    },
+    {
+        "title": "Data Backup and Recovery Plan",
+        "description": "Create a data backup and recovery plan for emergencies.",
+        "status": "BACKLOG",
+        "assignedTo": "Charlie",
+        "project": "CoreDataUpgrade",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "data"
+        ]
+    },
+    {
+        "title": "Enhance Logging Mechanism",
+        "description": "Improve the current logging mechanism for better monitoring and debugging.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "System Maintenance and Bug Fixes",
+        "milestone": "Release 4.0",
+        "tags": [
+            "backend",
+            "logging"
+        ]
+    },
+    {
+        "title": "UI Testing Framework",
+        "description": "Implement UI testing framework to ensure consistency and reduce bugs.",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "User Experience Improvement",
+        "milestone": "Release 4.0",
+        "tags": [
+            "frontend",
+            "testing"
+        ]
+    },
+    {
+        "title": "Session Management Update",
+        "description": "Improve session management algorithms to enhance user experience and security.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "SecurityEnhance",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "security",
+            "session"
+        ]
+    },
+    {
+        "title": "Deploy Database Indexing",
+        "description": "Implement database indexing to improve the speed of data retrieval.",
+        "status": "BACKLOG",
+        "assignedTo": "Beth",
+        "project": "PerformanceBoost",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "database",
+            "performance"
+        ]
+    },
+    {
+        "title": "Landing Page UI Update",
+        "description": "Update the landing page for a fresher look and feel.",
+        "status": "BACKLOG",
+        "assignedTo": "Charlie",
+        "project": "UIRevamp",
+        "milestone": "Release 3.1",
+        "tags": [
+            "frontend",
+            "design"
+        ]
+    },
+    {
+        "title": "RESTful API Documentation",
+        "description": "Create comprehensive documentation for our RESTful API services.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "FeatureXDevelopment",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "documentation",
+            "api"
+        ]
+    },
+    {
+        "title": "Improve Error Messages",
+        "description": "Update the wording and style of error messages for better clarity.",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "UIRevamp",
+        "milestone": "Release 3.1",
+        "tags": [
+            "frontend",
+            "design"
+        ]
+    },
+    {
+        "title": "Enhanced Password Encryption",
+        "description": "Upgrade the password encryption method to strengthen user account security.",
+        "status": "BACKLOG",
+        "assignedTo": "Adam",
+        "project": "SecurityEnhance",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "security"
+        ]
+    },
+    {
+        "title": "Refactor Payment Gateway",
+        "description": "Refactor the payment gateway integration for better maintainability.",
+        "status": "BACKLOG",
+        "assignedTo": "Beth",
+        "project": "PerformanceBoost",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "payment"
+        ]
+    },
+    {
+        "title": "Update Legal Disclaimers",
+        "description": "Review and update the legal disclaimers across the web application for compliance.",
+        "status": "BACKLOG",
+        "assignedTo": "Charlie",
+        "project": "Legal Compliance",
+        "milestone": "Release 3.1",
+        "tags": [
+            "frontend",
+            "legal"
+        ]
+    },
+    {
+        "title": "GraphQL Update",
+        "description": "Update GraphQL version and address any deprecated method.",
+        "status": "BACKLOG",
+        "assignedTo": "Dana",
+        "project": "FeatureXDevelopment",
+        "milestone": "Release 3.1",
+        "tags": [
+            "backend",
+            "api"
+        ]
+    },
+    {
+        "title": "Implement Dark Mode",
+        "description": "Implement Dark Mode preference across the web application.",
+        "status": "BACKLOG",
+        "assignedTo": "Eva",
+        "project": "UIRevamp",
+        "milestone": "Release 3.1",
+        "tags": [
+            "frontend",
+            "design"
+        ]
+    }
+]
